@@ -19,7 +19,7 @@ I take an app from problem to something people actually use in a day. That cover
 | --- | --- | --- |
 | 1 | [Joyo](https://build40for40.com/joyo/) | Unknown birth time |
 | 2 | [Sidekick](https://build40for40.com/sidekick/) | Learning games from scratch |
-| 3 | [Naughty List](https://build40for40.com/naughty-list/) | Hard to know which brands are ethical |
+| 3 | [Santa's Naughty List](https://build40for40.com/naughty-list/) | Hard to know which brands are ethical |
 | 4 | [Synergy](https://build40for40.com/synergy/) | Cold outreach to founders |
 | 6 | [Hookr](https://build40for40.com/hookr/) | Repurposing writing into content |
 | 7 | [Poppy](https://build40for40.com/poppy/) | Screen-free kids' activities |
@@ -29,7 +29,7 @@ I take an app from problem to something people actually use in a day. That cover
 | 14 | [Seamless](https://build40for40.com/seamless/) | Unbilled seamstress hours |
 | 15 | [A-Line](https://a-line.build40for40.com/) | Agency briefs full of holes |
 | 17 | [Lantern](https://build40for40.com/lantern/) | Buried neighbourhood favour requests |
-| 18 | [Crossover](https://build40for40.com/crossover/) | Ranking creator influence globally |
+| 18 | [Crossover 100 Index](https://build40for40.com/crossover/) | Ranking creator influence globally |
 
 The full list, with recordings, is on [build40for40.com](https://build40for40.com).
 
