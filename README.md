@@ -6,12 +6,12 @@ Everything lives at **[build40for40.com](https://build40for40.com)**, and the co
 
 ### What I do on the team
 
-I make the apps look and feel like something you'd want to use: brand, landing pages, design and front end. Most days that means:
+I take an app from problem to something people actually use in a day. That covers the experience, how it works and the code that ships it:
 
-- **Brand and identity** for each app, from the name and logo to the colours and type
-- **Landing pages** that explain the app to someone who's never heard of it
-- **Front end and UI polish**, shipped as lots of small pull requests so the team can build on them the same day
-- **The 40 for 40 site itself**, from the day board to the font
+- **UX with or without a screen.** A lot of our apps are a voice, a WhatsApp chat or a Claude conversation, so the design is the interaction and the character. Handup opens with a word of care, sent as three separate bubbles. A-Line gives you a coach to talk to. Gobbler, a turkey, signs off every thank-you with a P.S. in its own voice.
+- **Engineering.** Scaffolding, sign-in and the plumbing behind the UI. On Gobbler I built the Google sign-in, the contact sync and a memory "brain" per person on Cloudflare, then the Gmail drafts on top.
+- **Product.** Onboarding that only asks what it can't work out itself (Seamless, A-Line), games that make data fun (Crossover's Hot or Not) and cutting scope to what will actually ship by 16:40.
+- **Brand and front end.** Names, logos, landing pages and UI polish, shipped as lots of small pull requests so the team can build on them the same day. The 40 for 40 site too.
 
 ### Things we've shipped so far
 
