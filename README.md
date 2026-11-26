@@ -35,6 +35,7 @@ The full list, with recordings, is on [build40for40.com](https://build40for40.co
 
 ### Say hello
 
-- Watch us build: [twitch.tv/40for40](https://www.twitch.tv/40for40)
+- Follow along on TikTok: [@build40for40](https://www.tiktok.com/@build40for40)
+- Read the write-ups on Substack: [@build40for40](https://substack.com/@build40for40)
 - Join the community: [discord.gg/40for40](https://discord.gg/40for40)
 - LinkedIn: [in/lkao](https://www.linkedin.com/in/lkao)
