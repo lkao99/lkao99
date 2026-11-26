@@ -23,7 +23,7 @@ I take an app from problem to something people actually use in a day. That cover
 | 4 | [Synergy](https://build40for40.com/synergy/) | Cold outreach to founders |
 | 6 | [Hookr](https://build40for40.com/hookr/) | Repurposing writing into content |
 | 7 | [Poppy](https://build40for40.com/poppy/) | Screen-free kids' activities |
-| 8 | [Handup](https://build40for40.com/handup/) | Sudden mass layoffs (my problem) |
+| 8 | [Handup](https://build40for40.com/handup/) | Sudden mass layoffs |
 | 9 | [Nerds of Fashion](https://build40for40.com/nerds-of-fashion/) | Deciding what to wear |
 | 10 | [Chipped](https://build40for40.com/chipped/) | Chipped nails |
 | 14 | [Seamless](https://build40for40.com/seamless/) | Unbilled seamstress hours |
